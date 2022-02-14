@@ -3,7 +3,7 @@ public class Camcorder extends Item{
 	private int opticalZoom;
 
 	//Changed A
-	//Changed C
+	//Changed D
 	public Camcorder(String assetTag, String description, int opticalZoom) {
 		super(assetTag, description);
 		this.opticalZoom = opticalZoom;

@@ -154,7 +154,7 @@ public class ResourceCentreTest {
 	}
 	// testing123
 	//testing123
-	
+	//magic again lah
 	@After
 	public void tearDown() throws Exception {
 		cc1 = null;

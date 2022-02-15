@@ -157,6 +157,7 @@ public class ResourceCentreTest {
 
 
 	//magic again lah
+	//nak makan tempat sama?
 
 	@After
 	public void tearDown() throws Exception {

@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//Test
+//Test for CI
 public class ResourceCentre {
 
 	public static void main(String[] args) {

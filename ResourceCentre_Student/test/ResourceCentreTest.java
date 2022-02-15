@@ -152,9 +152,7 @@ public class ResourceCentreTest {
 		//fail("Not yet implemented");
 		// write your code here
 	}
-<<<<<<< HEAD
-	
-=======
+
 	// testing123
 	//testing123
 
@@ -162,7 +160,6 @@ public class ResourceCentreTest {
 	//magic again lah
 	//nak makan tempat sama?
 
->>>>>>> aef8b4346e68508beea609a7746c9cece17c4549
 	@After
 	public void tearDown() throws Exception {
 		cc1 = null;
